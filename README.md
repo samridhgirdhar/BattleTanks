@@ -2,7 +2,7 @@
 
 # 🚀 BattleTanks: A Multiplayer Tank Battle Game
 
-![Tank Stars Game](https://github.com/samridhgirdhar/BattleTanks/assets/logo.png)
+![Tank Stars Game](./assets/logo.png)
 
 Welcome to **BattleTanks**, a thrilling 2D multiplayer tank battle game developed using Java and the libGDX framework. Inspired by the classic Tank Stars game, this project showcases my skills in game development, object-oriented programming, and real-time multiplayer mechanics.
 
