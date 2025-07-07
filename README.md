@@ -4,7 +4,7 @@
 
 ![Tank Stars Game](./assets/logo.png)
 
-<img src="./assets/logo.png" width="300"/>
+<center><img src="./assets/logo.png" width="500"/></center>
 
 Welcome to **BattleTanks**, a thrilling 2D multiplayer tank battle game developed using Java and the libGDX framework. Inspired by the classic Tank Stars game, this project showcases my skills in game development, object-oriented programming, and real-time multiplayer mechanics.
 
@@ -85,6 +85,7 @@ To run **BattleTanks** locally:
 ## 📸 Screenshots
 
 ![Gameplay Screenshot](./assets/screenshot.jpeg)
+<center><img src="./assets/screenshot.jpeg" width="1000"/></center>
 
 ---
 
